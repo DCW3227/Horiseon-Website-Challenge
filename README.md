@@ -6,7 +6,7 @@ Added ID attribute to line 39 to fix broken link (id="search-engine-optimization
 
 Gave the website a more descriptive title
 
-Made code more semantic by adding a main tag and section tags. 
+Made code more semantic by adding a footer tag and section tags. 
 
 
 
